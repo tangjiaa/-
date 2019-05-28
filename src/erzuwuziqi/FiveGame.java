@@ -10,6 +10,8 @@ public  class FiveGame extends JFrame implements MouseListener{
 	
 	private static final long serialVersionUID = 1L;
 	//add a line.
+	
+	// hhhhh
 	//设置游戏界面
 	//	屏幕分辨率求法:
 	//		int w = f.getToolkit().getScreenSize().width;//宽度
